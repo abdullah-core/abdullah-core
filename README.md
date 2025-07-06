@@ -36,7 +36,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,git,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=golang,git,c,html,css,os" />
 </p>
 
 ---
