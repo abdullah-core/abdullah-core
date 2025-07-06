@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Md Abdullah</h1>
 
 <p align="center">
-  💻 Diving into Golang  &nbsp;|&nbsp; Exploring the world of Operating System
+  💻 Diving into Golang  &nbsp;|&nbsp; Exploring the world of Operating Systems
 </p>
 
 <p align="center">
