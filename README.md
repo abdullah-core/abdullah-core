@@ -84,17 +84,27 @@
 
 ---
 
-<p align="center">
-  <!-- Facebook -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" alt="Facebook" />
+<p align="left">Hello World!!</p>
 
-  <!-- Twitter (X) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40" alt="X" />
+###
 
-  <!-- LeetCode (custom logo) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+</div>
 
-  <!-- Codeforces (unofficial PNG) -->
-  <img src="https://sta.codeforces.com/s/59587/images/codeforces-logo-with-telegram.png" width="80" alt="Codeforces" />
-</p>
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=abdullah-hax.abdullah-hax&"  />
+
+###
 
