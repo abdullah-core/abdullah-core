@@ -36,7 +36,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,git,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=golang,git,c,html,css,codeforces,leetcode,fb,facebook,twitter,x" />
 </p>
 
 ---
@@ -98,3 +98,11 @@
 </p>
 
 
+---
+
+<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="CSS3" width="40" height="40"/></P>
+<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fb/fb-original.svg" alt="CSS3" width="40" height="40"/></P
+<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x/x-original.svg" alt="CSS3" width="40" height="40"/></P>
+<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="CSS3" width="40" height="40"/></P>
+<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="CSS3" width="40" height="40"/></P>
+<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="CSS3" width="40" height="40"/></P>
