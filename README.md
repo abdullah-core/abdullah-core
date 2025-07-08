@@ -86,9 +86,8 @@
 ---
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
 ---
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-hax&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-hax" /> </p>
+###<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-hax&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-hax" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah-hax" alt="abdullah-hax" /></a> </p>
 
