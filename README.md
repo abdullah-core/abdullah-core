@@ -62,24 +62,24 @@
 
 <div align="center">
   <!-- <a href="https://linkedin.com/in/abdullah-al-mahmud01798/"> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"
     alt="linkedin logo" /><img width="10" />
   </a>
   <a href="mailto:mdabdulllah72810@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /><img width="10" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" /><img width="10" />
   </a>
   <a href="https://codeforces.com/profile/stranger_core" target="blank"><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-      alt="stranger_core" height="40" /><img width="10" /></a>
+      alt="stranger_core" height="45" /><img width="10" /></a>
   <a href="https://www.leetcode.com/stranger_core" target="blank"><img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="stranger_core" height="40" /><img width="10" /></a>
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="42" alt="discord logo" /><img width="10" />
+      alt="stranger_core" height="45" /><img width="10" /></a>
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="47" alt="discord logo" /><img width="10" />
 
 
-  <!-- <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo" /><img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="33"
-    alt="twitter logo" /><img width="10" /> -->
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="facebook logo" /><img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="38"
+    alt="twitter logo" /><img width="10" />
 
 
 
