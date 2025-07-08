@@ -49,8 +49,8 @@
     alt="html5 logo" /><img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"
     alt="css3 logo" /><img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"
-    alt="canva logo" /><img width="10" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"
+    alt="canva logo" /><img width="10" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"
     alt="github logo" />
 
