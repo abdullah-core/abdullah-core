@@ -40,7 +40,7 @@
 <p align="center">
   <!-- <img src="https://skillicons.dev/icons?i=golang,git,c,html,css,github" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50"
-    alt="github logo" /><img width="12" />
+    alt="github logo" /><img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /><img
     width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /><img
