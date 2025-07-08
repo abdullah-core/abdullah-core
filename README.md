@@ -39,7 +39,7 @@
 
 <p align="center">
   <!-- <img src="https://skillicons.dev/icons?i=golang,git,c,html,css,github" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50"
     alt="github logo" /><img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /><img
     width="10" />
@@ -75,9 +75,11 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="stranger_core" height="40" /><img width="10" /></a>
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="42" alt="discord logo" /><img width="10" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo" /><img width="10" />
+
+
+  <!-- <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo" /><img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="33"
-    alt="twitter logo" /><img width="10" />
+    alt="twitter logo" /><img width="10" /> -->
 
 
 
