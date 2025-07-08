@@ -36,7 +36,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,git,c,html,css,codeforces,leetcode,fb,facebook,twitter,x" />
+  <img src="https://skillicons.dev/icons?i=golang,git,c,html,css" />
 </p>
 
 ---
@@ -100,9 +100,17 @@
 
 ---
 
-<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="CSS3" width="40" height="40"/></P>
-<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fb/fb-original.svg" alt="CSS3" width="40" height="40"/></P
-<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/x/x-original.svg" alt="CSS3" width="40" height="40"/></P>
-<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="CSS3" width="40" height="40"/></P>
-<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="CSS3" width="40" height="40"/></P>
-<P><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="CSS3" width="40" height="40"/></P>
+<p align="center">
+  <!-- Facebook -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" alt="Facebook" />
+
+  <!-- Twitter (X) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40" alt="X" />
+
+  <!-- LeetCode (custom logo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
+
+  <!-- Codeforces (unofficial PNG) -->
+  <img src="https://sta.codeforces.com/s/59587/images/codeforces-logo-with-telegram.png" width="80" alt="Codeforces" />
+</p>
+
