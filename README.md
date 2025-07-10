@@ -20,7 +20,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hax&layout=compact&theme=radical"
     alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hax&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hax&&layout=compact&theme=radicallangs_count=8">
 </p>
 
 ---
