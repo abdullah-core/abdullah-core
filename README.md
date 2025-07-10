@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hax&layout=compact&theme=radical"
     alt="Top Languages" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8
 ---
 
 ### 🤖 Codeforces Stats
