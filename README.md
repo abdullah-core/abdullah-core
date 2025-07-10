@@ -16,9 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah-hax&show_icons=true&theme=radical"
     alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-hax&&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-hax&theme=radical" alt="GitHub Streak" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=abdullah-hax&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdullah-hax&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hax&&layout=compact&theme=radical&langs_count=8"
     alt="Top Languages" />
 </p>
