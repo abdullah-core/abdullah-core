@@ -18,6 +18,7 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-hax&&theme=radical" alt="GitHub Streak" />
   <br><br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdullah-hax&theme=radical" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hax&&layout=compact&theme=radical&langs_count=8"
     alt="Top Languages" />
 </p>
