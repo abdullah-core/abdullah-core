@@ -20,8 +20,9 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hax&layout=compact&theme=radical"
     alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-hax&langs_count=8">
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8
+
 ---
 
 ### 🤖 Codeforces Stats
