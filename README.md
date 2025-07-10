@@ -7,7 +7,7 @@
 <p align="center">
   <em>Building, breaking, and securing the digital world—one commit at a time.</em>
 </p>
-
+ 
 ---
 
 ### 📊 GitHub Stats 
@@ -30,7 +30,7 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=stranger_core" alt="Codeforces Stats" />
 </p>
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=stranger_core" alt="">
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=stranger_core">
 </p>
 
 ---
