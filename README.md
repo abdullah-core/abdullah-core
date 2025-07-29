@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"
     alt="linkedin logo" /><img width="12" />
   </a>
-  <a href="mailto:mdabdulllah72812@gmail.com">
+  <a href="mailto:mdabdulllah667200@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" /><img width="12" />
   </a>
   <a href="https://codeforces.com/profile/stranger_core" target="blank"><img
